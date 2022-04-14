@@ -1,0 +1,11 @@
+.registrationPage {
+    padding: 2rem;
+    width: 100vw;
+    height: 100vh;
+}
+
+.formContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
